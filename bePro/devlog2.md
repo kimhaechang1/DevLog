@@ -44,6 +44,7 @@
 > 
 > 회원가입 모달 창으로서 구성요소는 다음과 같다
 > 
+> + 모달창 off 용 : span
 > + 아이디 : input type="text"
 > + 비밀번호 : input type="password"
 > + 이메일 : input type="email"
@@ -57,8 +58,8 @@
 > 
 > 로그인 모달 창으로서 구성요소는 다음과 같다
 > 
+> + 모달창 off 용 : span
 > + 아이디 : input type="text"
-> 
 > + 비밀번호 : input type="password"
 > 
 > #### 상단바 요소 변경 및 모달창 on off 기능
