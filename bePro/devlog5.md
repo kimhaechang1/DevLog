@@ -1,4 +1,4 @@
-# Oct. 28. 2022 merge
+# Oct. 29. 2022 merge
 
 적용 프로젝트 : [bePro](https://github.com/kimhaechang1/bePro)
 
