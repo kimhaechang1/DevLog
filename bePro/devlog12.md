@@ -25,7 +25,7 @@
 >
 > 참고자료
 >
-> [Mozilla Date()] (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date/Date)
+> [Mozilla Date()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date/Date)
 >
 > 메인페이지의 Card.js는 현재 ```switch``` 문을 통해
 > 
