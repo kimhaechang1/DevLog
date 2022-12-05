@@ -31,6 +31,8 @@
 >
 > 모든 게시판 라우팅은 헤더를 포함한 라우팅으로 부터 해당 게시판 리스트와 뷰 페이지로 이어진다.
 >
+> 아래의 Gif는 테스트 할 때의 영상으로, 현재구현과는 거의 무관하다.
+>
 > <img width="100%" height="100%" src="https://user-images.githubusercontent.com/81299056/205581020-24fc5b29-04e3-44ad-96d0-61a706478690.gif"/>
 >
 > ```jsx
@@ -43,7 +45,7 @@
 >    </Routes>
 >  </Router>
 > ```
-> 여기서 react-router-dom v6 의 <Outlet/> 컴포넌트를 활용하여 중복되어지는 내용을 깔끔하게 처리한다.
+> 여기서 react-router-dom v6 의 ```<Outlet/>``` 컴포넌트를 활용하여 중복되어지는 내용을 깔끔하게 처리한다.
 >
 > > **Outlet 컴포넌트**
 > > 
