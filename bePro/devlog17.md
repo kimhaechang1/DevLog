@@ -349,6 +349,8 @@
 > >           resOfAuth.then(data =>{
 > >             if(data.adminAuth && data.signinAuth){
 > >               ...
+> >                setIsAnony(false);
+                   setIsInputAnonyActive(true);
 > >             }else if(data.signinAuth){
 > >             // 로그인 만 되어있다면 익명 댓글 체크박스를 사용 가능케 하고 초기값을 false
 > >               setIsAnony(false);
@@ -454,7 +456,13 @@
 > > 
 > > export default axiosComment;
 > > ```
-
+> >
+>
+> #### 최종 시연 gif
+>
+> 로그인 중 test2 라는 아이디 계정은 현재 어드민 상태이다
+>
+> <img src="https://user-images.githubusercontent.com/81299056/210132850-adfcfc44-f982-46c5-bf3f-bd3df1c21b48.gif" width="100%" height="100%">
 <br/>
 
 후기
