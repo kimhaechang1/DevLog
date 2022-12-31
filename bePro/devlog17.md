@@ -321,6 +321,8 @@
 > > ```
 > > 
 >
+> <br/>
+>
 > > **댓글 쓰기**
 > > 
 > > 렌더링 위치는 ```<QnAView/>```에서 게시글 내용 바로 아래에 오도록 구현하고
@@ -350,7 +352,7 @@
 > >             if(data.adminAuth && data.signinAuth){
 > >               ...
 > >                setIsAnony(false);
-                   setIsInputAnonyActive(true);
+> >                setIsInputAnonyActive(true);
 > >             }else if(data.signinAuth){
 > >             // 로그인 만 되어있다면 익명 댓글 체크박스를 사용 가능케 하고 초기값을 false
 > >               setIsAnony(false);
