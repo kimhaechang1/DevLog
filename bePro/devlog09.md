@@ -1,4 +1,4 @@
-# Nov. 9. 2022 commit
+# Nov. 09. 2022 commit
 
 적용 프로젝트 : [bePro](https://github.com/kimhaechang1/bePro)
 
